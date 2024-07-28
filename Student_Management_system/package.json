@@ -1,0 +1,21 @@
+{
+  "name": "student_management_system",
+  "version": "1.0.0",
+  "description": "In this Ts file i have created Word_Counter",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saif ur Rehman Roll No: 00481157",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.3",
+    "undici-types": "^5.26.5"
+  }
+}
